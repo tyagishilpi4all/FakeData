@@ -1,5 +1,30 @@
 [
     {
-        "name": "sunny"
+        "price": "$300",
+        "address": "meerut",
+        "businessHours": "9am-8pm",
+        "phone": "+915678765",
+        "status": "opened"
+    },
+    {
+        "price": "$300",
+        "address": "delhi",
+        "businessHours": "9am-12pm",
+        "phone": "+915678765",
+        "status": "opened"
+    },
+    {
+        "price": "$300",
+        "address": "Noida",
+        "businessHours": "9am-12pm",
+        "phone": "+915678765",
+        "status": "opened"
+    },
+    {
+        "price": "$300",
+        "address": "patna",
+        "businessHours": "9am-12pm",
+        "phone": "+915678765",
+        "status": "opened"
     }
 ]
